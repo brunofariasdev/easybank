@@ -1,3 +1,7 @@
+*{
+  font-family: 'Public Sans', sans-serif;
+  font-size: 18px;
+}
 .App {
   text-align: center;
 }
