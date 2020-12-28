@@ -58,9 +58,7 @@ const Head = () => {
             <Menu>
                 <NavLink to="/" className="navlink"><MenuLi>Home</MenuLi></NavLink>
                 <NavLink to="/about" className="navlink"><MenuLi>About</MenuLi></NavLink>
-                <MenuLi>Contact</MenuLi>
-                <MenuLi>Blog</MenuLi>
-                <MenuLi>Carrers</MenuLi>
+                <NavLink to="/contact" className="navlink"><MenuLi>Blog</MenuLi></NavLink>
                 </Menu>
             <Botao>Request Invite</Botao>
         </Top>
