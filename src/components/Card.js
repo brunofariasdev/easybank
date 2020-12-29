@@ -17,14 +17,13 @@ const Container = styled.div`
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    margin: .4rem;
 
 `;
 const Img = styled.img`
     width: 3.8rem;
     height: 3.4rem;
     padding: .2rem;
-
-
 `;
 
 const CardTitle = styled.h3`
@@ -35,7 +34,7 @@ const CardTitle = styled.h3`
 `;
 
 const Text = styled.p`
-    font-size: .9rem;
+    font-size: .7rem;
     padding: .2rem;
     color: #9698a6;
 
