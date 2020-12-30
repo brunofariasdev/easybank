@@ -31,11 +31,7 @@ $ yarn start
 </p>
 
 ---
-	Mobile
-<p align="center">
-	
-  <img width="330px" height="630px" src="src/images/desk.png" alt="EasyBank Mobile"></a>
-</p>
+
 
 ## Credits
 <a href="https://www.instagram.com/brunofarias_dev/">@Brunofarias</a>
