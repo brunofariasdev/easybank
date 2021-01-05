@@ -5,6 +5,8 @@
 
 Concept of a bank web page EASYBANK
 
+https://zen-jennings-831a9c.netlify.app/
+
 ## Start:
 
 ```sh
